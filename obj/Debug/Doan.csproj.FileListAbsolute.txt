@@ -1,0 +1,14 @@
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\bin\Debug\Doan.exe.config
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\bin\Debug\Doan.exe
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\bin\Debug\Doan.pdb
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.csprojAssemblyReference.cache
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.Intro.resources
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.Properties.Resources.resources
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.csproj.GenerateResource.cache
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.csproj.CoreCompileInputs.cache
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.exe
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.pdb
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.Caro.resources
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.Caroplayer.resources
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.ChatClient.resources
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.Server.resources

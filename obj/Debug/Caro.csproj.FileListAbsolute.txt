@@ -1,0 +1,10 @@
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\bin\Debug\Doan.exe.config
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\bin\Debug\Doan.exe
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\bin\Debug\Doan.pdb
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Caro.csprojAssemblyReference.cache
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.Caroplayer.resources
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.Properties.Resources.resources
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Caro.csproj.GenerateResource.cache
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Caro.csproj.CoreCompileInputs.cache
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.exe
+C:\Users\TFM StarScreams\source\repos\Doan\Doan\obj\Debug\Doan.pdb
